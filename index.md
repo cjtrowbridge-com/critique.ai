@@ -1,6 +1,6 @@
 ---
 layout: default
-title: home
+title: Gravity UI
 ---
 
 # Critique.ai - Gravity UI Specification
